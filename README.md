@@ -71,19 +71,21 @@ Example from `check_headers.py` run against https://automationexercise.com:
 
 
 
+
 These logs are saved to `/logs/` automatically.
 
 ---
 
-##  Installation
+## 🧾 Installation
 
 To run Python tools, install dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
 
-👤 Author
+Author
 Aleksei Kozhevnikov
 Manual QA Tester | Cybersecurity Beginner
-📍 Austin, Texas
-🔗 GitHub: lifemonitors
+Austin, Texas
+GitHub: lifemonitors 
