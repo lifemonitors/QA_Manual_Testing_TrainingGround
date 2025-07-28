@@ -42,12 +42,12 @@ QA_Manual_Testing_TrainingGround/
 
 ##  Useful Project Files
 
-- [📝 Registration Test Cases](test_cases/registration.md)
-- [🐞 Bug Report: Login with Empty Fields](bug_reports/bug_login_empty_fields.md)
-- [🛡 Check Headers Script](security_checks/check_headers.py)
-- [🔁 Check Redirects Script](security_checks/check_redirects.py)
-- [🔍 Form Analyzer Script](security_checks/form_tester.py)
-- [🔐 Login Form Tester Script](security_checks/form_login_tester.py)
+- [ Registration Test Cases](test_cases/registration.md)
+- [ Bug Report: Login with Empty Fields](bug_reports/bug_login_empty_fields.md)
+- [ Check Headers Script](security_checks/check_headers.py)
+- [ Check Redirects Script](security_checks/check_redirects.py)
+- [ Form Analyzer Script](security_checks/form_tester.py)
+- [ Login Form Tester Script](security_checks/form_login_tester.py)
 
 ---
 
@@ -76,7 +76,7 @@ These logs are saved to `/logs/` automatically.
 
 ---
 
-## 🧾 Installation
+##  Installation
 
 To run Python tools, install dependencies:
 
