@@ -22,22 +22,25 @@ It includes test cases, bug reports, and basic Python tools to practice web form
 
 ---
 
-##  Project Structure
+## 📁 Project Structure
 
+```
 QA_Manual_Testing_TrainingGround/
 ├── README.md
 ├── requirements.txt
-├── test_cases/
-│ └── registration.md
 ├── bug_reports/
-│ └── bug_login_empty_fields.md
+│   └── bug_login_empty_fields.md
 ├── security_checks/
-│ ├── check_headers.py
-│ ├── check_redirects.py
-│ ├── form_tester.py
-│ ├── form_login_tester.py
-│ └── logger.py
-└── logs/ ← created automatically
+│   ├── check_headers.py
+│   ├── check_redirects.py
+│   └── logger.py
+├── test_cases/
+│   └── registration.md
+├── form_tester.py
+├── form_login_tester.py
+└── logs/  ← created automatically
+```
+
 
 
 ##  Useful Project Files
