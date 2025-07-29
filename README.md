@@ -22,7 +22,7 @@ It includes test cases, bug reports, and basic Python tools to practice web form
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 QA_Manual_Testing_TrainingGround/
